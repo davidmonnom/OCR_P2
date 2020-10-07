@@ -1,0 +1,892 @@
+# Copyright (C) 2019 Price Field by impleCode
+# This file is distributed under the same license as the Price Field by impleCode package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Price Field\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-17 07:22+0000\n"
+"PO-Revision-Date: 2019-10-17 07:22+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: sep/settings.php:87
+#, php-format
+msgid "%s code placed in template file."
+msgstr ""
+
+#: modules/price/widgets/price-filter-widget.php:20
+#, php-format
+msgid "%s Price Filter"
+msgstr ""
+
+#: sep/settings.php:87
+#, php-format
+msgid "%s shortcode placed in content."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Add Price Field to posts, pages or any custom post type. Full integration "
+"with Post Type X."
+msgstr ""
+
+#: modules/price/config/currencies.php:193
+msgid "Afghan afghani"
+msgstr ""
+
+#: modules/price/price-settings.php:86
+msgid "After Price"
+msgstr ""
+
+#: modules/price/price-settings.php:59
+msgid "After Price Text"
+msgstr ""
+
+#: modules/price/config/currencies.php:194
+msgid "Albanian lek"
+msgstr ""
+
+#: modules/price/config/currencies.php:233
+msgid "Algerian dinar"
+msgstr ""
+
+#: modules/price/config/currencies.php:197
+msgid "Angolan kwanza"
+msgstr ""
+
+#: modules/price/config/currencies.php:198
+msgid "Argentine peso"
+msgstr ""
+
+#: modules/price/config/currencies.php:195
+msgid "Armenian dram"
+msgstr ""
+
+#: modules/price/config/currencies.php:200
+msgid "Aruban florin"
+msgstr ""
+
+#: modules/price/config/currencies.php:199
+msgid "Australian dollar"
+msgstr ""
+
+#: modules/price/config/currencies.php:201
+msgid "Azerbaijani manat"
+msgstr ""
+
+#: modules/price/config/currencies.php:212
+msgid "Bahamian dollar"
+msgstr ""
+
+#: modules/price/config/currencies.php:206
+msgid "Bahraini dinar"
+msgstr ""
+
+#: modules/price/config/currencies.php:204
+msgid "Bangladeshi taka"
+msgstr ""
+
+#: modules/price/config/currencies.php:203
+msgid "Barbadian dollar"
+msgstr ""
+
+#: modules/price/price-settings.php:85
+msgid "Before Price"
+msgstr ""
+
+#: modules/price/config/currencies.php:217
+msgid "Belarusian ruble"
+msgstr ""
+
+#: modules/price/config/currencies.php:216
+msgid "Belarusian ruble (old)"
+msgstr ""
+
+#: modules/price/config/currencies.php:218
+msgid "Belize dollar"
+msgstr ""
+
+#: modules/price/config/currencies.php:208
+msgid "Bermudian dollar"
+msgstr ""
+
+#: modules/price/config/currencies.php:214
+msgid "Bhutanese ngultrum"
+msgstr ""
+
+#: modules/price/price-settings.php:26
+msgid "Big"
+msgstr ""
+
+#: modules/price/config/currencies.php:213
+msgid "Bitcoin"
+msgstr ""
+
+#: modules/price/price-settings.php:39
+msgid "Blue"
+msgstr ""
+
+#: modules/price/config/currencies.php:210
+msgid "Bolivian boliviano"
+msgstr ""
+
+#: modules/price/config/currencies.php:202
+msgid "Bosnia and Herzegovina convertible mark"
+msgstr ""
+
+#: modules/price/config/currencies.php:215
+msgid "Botswana pula"
+msgstr ""
+
+#: modules/price/config/currencies.php:211
+msgid "Brazilian real"
+msgstr ""
+
+#: modules/price/config/currencies.php:209
+msgid "Brunei dollar"
+msgstr ""
+
+#: modules/price/config/currencies.php:205
+msgid "Bulgarian lev"
+msgstr ""
+
+#: modules/price/config/currencies.php:285
+msgid "Burmese kyat"
+msgstr ""
+
+#: modules/price/config/currencies.php:207
+msgid "Burundian franc"
+msgstr ""
+
+#: modules/price/config/currencies.php:268
+msgid "Cambodian riel"
+msgstr ""
+
+#: modules/price/config/currencies.php:219
+msgid "Canadian dollar"
+msgstr ""
+
+#: modules/price/config/currencies.php:228
+msgid "Cape Verdean escudo"
+msgstr ""
+
+#: modules/price/widgets/price-filter-widget.php:23
+msgid "Catalog Price Filter"
+msgstr ""
+
+#: modules/price/config/currencies.php:273
+msgid "Cayman Islands dollar"
+msgstr ""
+
+#: modules/price/config/currencies.php:347
+msgid "Central African CFA franc"
+msgstr ""
+
+#: modules/price/config/currencies.php:350
+msgid "CFP franc"
+msgstr ""
+
+#: modules/price/config/currencies.php:222
+msgid "Chilean peso"
+msgstr ""
+
+#: modules/price/config/currencies.php:223
+msgid "Chinese yuan"
+msgstr ""
+
+#: modules/price/config/currencies.php:224
+msgid "Colombian peso"
+msgstr ""
+
+#: modules/price/config/currencies.php:269
+msgid "Comorian franc"
+msgstr ""
+
+#: modules/price/config/currencies.php:220
+msgid "Congolese franc"
+msgstr ""
+
+#: modules/price/config/currencies.php:225
+msgid "Costa Rican col&oacute;n"
+msgstr ""
+
+#: modules/price/config/currencies.php:251
+msgid "Croatian kuna"
+msgstr ""
+
+#: modules/price/config/currencies.php:226
+msgid "Cuban convertible peso"
+msgstr ""
+
+#: modules/price/config/currencies.php:227
+msgid "Cuban peso"
+msgstr ""
+
+#: modules/price/price-settings.php:84
+msgid "Currency position"
+msgstr ""
+
+#: modules/price/price-settings.php:83
+msgid "Custom Currency Symbol"
+msgstr ""
+
+#: modules/price/config/currencies.php:229
+msgid "Czech koruna"
+msgstr ""
+
+#: modules/price/config/currencies.php:231
+msgid "Danish krone"
+msgstr ""
+
+#: modules/price/price-settings.php:91
+msgid "Decimal Separator"
+msgstr ""
+
+#: modules/price/config/currencies.php:230
+msgid "Djiboutian franc"
+msgstr ""
+
+#: modules/price/config/currencies.php:232
+msgid "Dominican peso"
+msgstr ""
+
+#: modules/price/config/currencies.php:348
+msgid "East Caribbean dollar"
+msgstr ""
+
+#: modules/price/config/currencies.php:234
+msgid "Egyptian pound"
+msgstr ""
+
+#: modules/price/widgets/price-filter-widget.php:73
+msgid "Enable also for shortcodes"
+msgstr ""
+
+#: sep/settings.php:69
+msgid "Enable Price Field for"
+msgstr ""
+
+#: modules/price/config/currencies.php:235
+msgid "Eritrean nakfa"
+msgstr ""
+
+#: modules/price/config/currencies.php:236
+msgid "Ethiopian birr"
+msgstr ""
+
+#: modules/price/config/currencies.php:237
+msgid "Euro"
+msgstr ""
+
+#: modules/price/price-meta.php:31
+#, php-format
+msgid "Example price format: %s or %s"
+msgstr ""
+
+#: modules/price/config/currencies.php:239
+msgid "Falkland Islands pound"
+msgstr ""
+
+#: modules/price/config/currencies.php:238
+msgid "Fijian dollar"
+msgstr ""
+
+#: modules/price/widgets/price-filter-widget.php:21
+#, php-format
+msgid "Filter %s by price."
+msgstr ""
+
+#: modules/price/widgets/price-filter-widget.php:24
+msgid "Filter items by price."
+msgstr ""
+
+#: modules/price/price-settings.php:58
+msgid "Free Product Text"
+msgstr ""
+
+#: modules/price/config/currencies.php:245
+msgid "Gambian dalasi"
+msgstr ""
+
+#: sep/settings.php:65
+msgid "General Price Field Settings"
+msgstr ""
+
+#: modules/price/config/currencies.php:241
+msgid "Georgian lari"
+msgstr ""
+
+#: modules/price/config/currencies.php:243
+msgid "Ghana cedi"
+msgstr ""
+
+#: modules/price/config/currencies.php:244
+msgid "Gibraltar pound"
+msgstr ""
+
+#: modules/price/price-settings.php:38
+msgid "Green"
+msgstr ""
+
+#: modules/price/price-settings.php:40
+msgid "Grey"
+msgstr ""
+
+#: modules/price/config/currencies.php:247
+msgid "Guatemalan quetzal"
+msgstr ""
+
+#: modules/price/config/currencies.php:242
+msgid "Guernsey pound"
+msgstr ""
+
+#: modules/price/config/currencies.php:246
+msgid "Guinean franc"
+msgstr ""
+
+#: modules/price/config/currencies.php:248
+msgid "Guyanese dollar"
+msgstr ""
+
+#: modules/price/config/currencies.php:252
+msgid "Haitian gourde"
+msgstr ""
+
+#: modules/price/config/currencies.php:250
+msgid "Honduran lempira"
+msgstr ""
+
+#: modules/price/config/currencies.php:249
+msgid "Hong Kong dollar"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://implecode.com/#cam=in-plugin-urls&key=author-url"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://implecode.com/wordpress/product-attributes/#cam=in-plugin-"
+"urls&key=plugin-url"
+msgstr ""
+
+#: modules/price/config/currencies.php:253
+msgid "Hungarian forint"
+msgstr ""
+
+#: modules/price/config/currencies.php:261
+msgid "Icelandic kr&oacute;na"
+msgstr ""
+
+#: modules/price/price-settings.php:83
+msgid ""
+"If you choose custom currency symbol, it will override Your Currency setting "
+"and let you use any currency."
+msgstr ""
+
+#. Author of the plugin
+msgid "impleCode"
+msgstr ""
+
+#: modules/price/config/currencies.php:257
+msgid "Indian rupee"
+msgstr ""
+
+#: modules/price/config/currencies.php:254
+msgid "Indonesian rupiah"
+msgstr ""
+
+#: modules/price/config/currencies.php:259
+msgid "Iranian rial"
+msgstr ""
+
+#: modules/price/config/currencies.php:260
+msgid "Iranian toman"
+msgstr ""
+
+#: modules/price/config/currencies.php:258
+msgid "Iraqi dinar"
+msgstr ""
+
+#: modules/price/config/currencies.php:255
+msgid "Israeli new shekel"
+msgstr ""
+
+#: modules/price/config/currencies.php:263
+msgid "Jamaican dollar"
+msgstr ""
+
+#: modules/price/config/currencies.php:265
+msgid "Japanese yen"
+msgstr ""
+
+#: modules/price/config/currencies.php:262
+msgid "Jersey pound"
+msgstr ""
+
+#: modules/price/config/currencies.php:264
+msgid "Jordanian dinar"
+msgstr ""
+
+#: modules/price/config/currencies.php:274
+msgid "Kazakhstani tenge"
+msgstr ""
+
+#: modules/price/config/currencies.php:266
+msgid "Kenyan shilling"
+msgstr ""
+
+#: modules/price/config/currencies.php:272
+msgid "Kuwaiti dinar"
+msgstr ""
+
+#: modules/price/config/currencies.php:267
+msgid "Kyrgyzstani som"
+msgstr ""
+
+#: modules/price/config/currencies.php:275
+msgid "Lao kip"
+msgstr ""
+
+#: modules/price/config/currencies.php:276
+msgid "Lebanese pound"
+msgstr ""
+
+#: modules/price/config/currencies.php:279
+msgid "Lesotho loti"
+msgstr ""
+
+#: modules/price/config/currencies.php:278
+msgid "Liberian dollar"
+msgstr ""
+
+#: modules/price/config/currencies.php:280
+msgid "Libyan dinar"
+msgstr ""
+
+#: modules/price/config/currencies.php:287
+msgid "Macanese pataca"
+msgstr ""
+
+#: modules/price/config/currencies.php:284
+msgid "Macedonian denar"
+msgstr ""
+
+#: modules/price/config/currencies.php:283
+msgid "Malagasy ariary"
+msgstr ""
+
+#: modules/price/config/currencies.php:291
+msgid "Malawian kwacha"
+msgstr ""
+
+#: modules/price/config/currencies.php:293
+msgid "Malaysian ringgit"
+msgstr ""
+
+#: modules/price/config/currencies.php:290
+msgid "Maldivian rufiyaa"
+msgstr ""
+
+#: modules/price/config/currencies.php:256
+msgid "Manx pound"
+msgstr ""
+
+#: modules/price/config/currencies.php:288
+msgid "Mauritanian ouguiya"
+msgstr ""
+
+#: modules/price/config/currencies.php:289
+msgid "Mauritian rupee"
+msgstr ""
+
+#: modules/price/config/currencies.php:292
+msgid "Mexican peso"
+msgstr ""
+
+#: modules/price/config/currencies.php:282
+msgid "Moldovan leu"
+msgstr ""
+
+#: modules/price/config/currencies.php:286
+msgid "Mongolian t&ouml;gr&ouml;g"
+msgstr ""
+
+#: modules/price/config/currencies.php:281
+msgid "Moroccan dirham"
+msgstr ""
+
+#: modules/price/config/currencies.php:294
+msgid "Mozambican metical"
+msgstr ""
+
+#: modules/price/config/currencies.php:295
+msgid "Namibian dollar"
+msgstr ""
+
+#: modules/price/config/currencies.php:299
+msgid "Nepalese rupee"
+msgstr ""
+
+#: modules/price/config/currencies.php:196
+msgid "Netherlands Antillean guilder"
+msgstr ""
+
+#: modules/price/config/currencies.php:336
+msgid "New Taiwan dollar"
+msgstr ""
+
+#: modules/price/config/currencies.php:300
+msgid "New Zealand dollar"
+msgstr ""
+
+#: modules/price/config/currencies.php:297
+msgid "Nicaraguan c&oacute;rdoba"
+msgstr ""
+
+#: modules/price/config/currencies.php:296
+msgid "Nigerian naira"
+msgstr ""
+
+#: modules/price/config/currencies.php:270
+msgid "North Korean won"
+msgstr ""
+
+#: modules/price/config/currencies.php:298
+msgid "Norwegian krone"
+msgstr ""
+
+#: modules/price/price-settings.php:75 modules/price/price-settings.php:89
+msgid "Off"
+msgstr ""
+
+#: modules/price/config/currencies.php:301
+msgid "Omani rial"
+msgstr ""
+
+#: modules/price/price-settings.php:75 modules/price/price-settings.php:89
+msgid "On"
+msgstr ""
+
+#: modules/price/price-settings.php:37
+msgid "Orange"
+msgstr ""
+
+#: sep/settings.php:71 sep/settings.php:80
+msgid "Pages"
+msgstr ""
+
+#: modules/price/config/currencies.php:306
+msgid "Pakistani rupee"
+msgstr ""
+
+#: modules/price/config/currencies.php:302
+msgid "Panamanian balboa"
+msgstr ""
+
+#: modules/price/config/currencies.php:304
+msgid "Papua New Guinean kina"
+msgstr ""
+
+#: modules/price/config/currencies.php:309
+msgid "Paraguayan guaran&iacute;"
+msgstr ""
+
+#: modules/price/price-settings.php:72
+msgid "Payment and currency"
+msgstr ""
+
+#: modules/price/config/currencies.php:303
+msgid "Peruvian nuevo sol"
+msgstr ""
+
+#: modules/price/config/currencies.php:305
+msgid "Philippine peso"
+msgstr ""
+
+#: modules/price/price-meta.php:32
+#, php-format
+msgid ""
+"Please provide a correct price format according to your currency settings. "
+"Example price format: %s or %s"
+msgstr ""
+
+#: modules/price/config/currencies.php:307
+msgid "Polish z&#x142;oty"
+msgstr ""
+
+#: modules/price/config/currencies.php:240
+msgid "Pound sterling"
+msgstr ""
+
+#: sep/price-register.php:35 modules/price/price-meta.php:31
+#: modules/price/price-meta.php:64 modules/price/price-meta.php:116
+#: modules/price/price-settings.php:75
+#: modules/price/widgets/price-filter-widget.php:50
+#: modules/price/widgets/price-filter-widget.php:51
+msgid "Price"
+msgstr ""
+
+#: modules/price/price-settings.php:33
+msgid "Price Color"
+msgstr ""
+
+#. Name of the plugin
+#: sep/settings.php:22
+msgid "Price Field"
+msgstr ""
+
+#: modules/price/price-settings.php:57
+msgid "Price Label"
+msgstr ""
+
+#: modules/price/price-settings.php:24
+msgid "Price Size"
+msgstr ""
+
+#: modules/price/price-settings.php:43
+msgid "product archive"
+msgstr ""
+
+#: modules/price/config/currencies.php:310
+msgid "Qatari riyal"
+msgstr ""
+
+#: modules/price/price-settings.php:36
+msgid "Red"
+msgstr ""
+
+#: modules/price/config/currencies.php:311
+msgid "Romanian leu"
+msgstr ""
+
+#: modules/price/config/currencies.php:313
+msgid "Russian ruble"
+msgstr ""
+
+#: modules/price/config/currencies.php:314
+msgid "Rwandan franc"
+msgstr ""
+
+#: modules/price/config/currencies.php:326
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe dobra"
+msgstr ""
+
+#: modules/price/config/currencies.php:321
+msgid "Saint Helena pound"
+msgstr ""
+
+#: modules/price/config/currencies.php:346
+msgid "Samoan t&#x101;l&#x101;"
+msgstr ""
+
+#: modules/price/config/currencies.php:315
+msgid "Saudi riyal"
+msgstr ""
+
+#: sep/settings.php:88 sep/settings.php:100
+msgid "Save changes"
+msgstr ""
+
+#: modules/price/price-settings.php:79
+msgid ""
+"Select a currency from the list. If your currency is not available in the "
+"list, please use the Custom Currency Symbol option below."
+msgstr ""
+
+#: modules/price/config/currencies.php:312
+msgid "Serbian dinar"
+msgstr ""
+
+#: sep/settings.php:64
+msgid "Settings"
+msgstr ""
+
+#: modules/price/config/currencies.php:317
+msgid "Seychellois rupee"
+msgstr ""
+
+#: sep/settings.php:78
+msgid "Show Price Field Automatically on"
+msgstr ""
+
+#: modules/price/config/currencies.php:322
+msgid "Sierra Leonean leone"
+msgstr ""
+
+#: modules/price/config/currencies.php:320
+msgid "Singapore dollar"
+msgstr ""
+
+#: modules/price/price-settings.php:30 modules/price/price-settings.php:43
+msgid "single product"
+msgstr ""
+
+#: modules/price/price-settings.php:27
+msgid "Small"
+msgstr ""
+
+#: modules/price/config/currencies.php:316
+msgid "Solomon Islands dollar"
+msgstr ""
+
+#: modules/price/config/currencies.php:323
+msgid "Somali shilling"
+msgstr ""
+
+#: modules/price/config/currencies.php:352
+msgid "South African rand"
+msgstr ""
+
+#: modules/price/config/currencies.php:271
+msgid "South Korean won"
+msgstr ""
+
+#: modules/price/config/currencies.php:325
+msgid "South Sudanese pound"
+msgstr ""
+
+#: modules/price/price-settings.php:89
+msgid "Space between currency & price"
+msgstr ""
+
+#: modules/price/config/currencies.php:277
+msgid "Sri Lankan rupee"
+msgstr ""
+
+#: modules/price/config/currencies.php:318
+msgid "Sudanese pound"
+msgstr ""
+
+#: modules/price/config/currencies.php:324
+msgid "Surinamese dollar"
+msgstr ""
+
+#: modules/price/config/currencies.php:328
+msgid "Swazi lilangeni"
+msgstr ""
+
+#: modules/price/config/currencies.php:319
+msgid "Swedish krona"
+msgstr ""
+
+#: modules/price/config/currencies.php:221
+msgid "Swiss franc"
+msgstr ""
+
+#: modules/price/config/currencies.php:327
+msgid "Syrian pound"
+msgstr ""
+
+#: modules/price/config/currencies.php:330
+msgid "Tajikistani somoni"
+msgstr ""
+
+#: modules/price/config/currencies.php:337
+msgid "Tanzanian shilling"
+msgstr ""
+
+#: modules/price/config/currencies.php:329
+msgid "Thai baht"
+msgstr ""
+
+#: modules/price/price-settings.php:90
+msgid "Thousands Separator"
+msgstr ""
+
+#: modules/price/widgets/price-filter-widget.php:72
+msgid "Title:"
+msgstr ""
+
+#: modules/price/config/currencies.php:333
+msgid "Tongan pa&#x2bb;anga"
+msgstr ""
+
+#: modules/price/config/currencies.php:308
+msgid "Transnistrian ruble"
+msgstr ""
+
+#: modules/price/config/currencies.php:335
+msgid "Trinidad and Tobago dollar"
+msgstr ""
+
+#: modules/price/config/currencies.php:332
+msgid "Tunisian dinar"
+msgstr ""
+
+#: modules/price/config/currencies.php:334
+msgid "Turkish lira"
+msgstr ""
+
+#: modules/price/config/currencies.php:331
+msgid "Turkmenistan manat"
+msgstr ""
+
+#: modules/price/config/currencies.php:339
+msgid "Ugandan shilling"
+msgstr ""
+
+#: modules/price/config/currencies.php:338
+msgid "Ukrainian hryvnia"
+msgstr ""
+
+#: modules/price/config/currencies.php:192
+msgid "United Arab Emirates dirham"
+msgstr ""
+
+#: modules/price/config/currencies.php:340
+msgid "United States dollar"
+msgstr ""
+
+#: modules/price/config/currencies.php:341
+msgid "Uruguayan peso"
+msgstr ""
+
+#: modules/price/config/currencies.php:342
+msgid "Uzbekistani som"
+msgstr ""
+
+#: modules/price/config/currencies.php:345
+msgid "Vanuatu vatu"
+msgstr ""
+
+#: modules/price/config/currencies.php:343
+msgid "Venezuelan bol&iacute;var"
+msgstr ""
+
+#: modules/price/config/currencies.php:344
+msgid "Vietnamese &#x111;&#x1ed3;ng"
+msgstr ""
+
+#: modules/price/config/currencies.php:349
+msgid "West African CFA franc"
+msgstr ""
+
+#: modules/price/price-settings.php:75
+msgid "Whether to enable or disable price functionality for the catalog."
+msgstr ""
+
+#: modules/price/config/currencies.php:351
+msgid "Yemeni rial"
+msgstr ""
+
+#: sep/settings.php:87
+msgid "You can also display price with"
+msgstr ""
+
+#: modules/price/price-meta.php:31
+msgid "you can change it in product settings"
+msgstr ""
+
+#: modules/price/price-settings.php:79
+msgid "Your currency"
+msgstr ""
+
+#: modules/price/config/currencies.php:353
+msgid "Zambian kwacha"
+msgstr ""
